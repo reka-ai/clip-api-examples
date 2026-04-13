@@ -1,0 +1,36 @@
+{
+  "agents": {
+    "keaton": {
+      "persistent_name": "Keaton",
+      "universe": "The Usual Suspects",
+      "role": "Lead / Rust Dev",
+      "created_at": "2026-04-13T15:43:26Z",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "mcmanus": {
+      "persistent_name": "McManus",
+      "universe": "The Usual Suspects",
+      "role": "DevRel / Docs",
+      "created_at": "2026-04-13T15:43:26Z",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "scribe": {
+      "persistent_name": "Scribe",
+      "universe": "exempt",
+      "role": "Session Logger",
+      "created_at": "2026-04-13T15:43:26Z",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "ralph": {
+      "persistent_name": "Ralph",
+      "universe": "exempt",
+      "role": "Work Monitor",
+      "created_at": "2026-04-13T15:43:26Z",
+      "legacy_named": false,
+      "status": "active"
+    }
+  }
+}
