@@ -83,7 +83,7 @@
     },
     {
       "parameters": {
-        "url": "=https://vision-agent.api.reka.ai/v1/creator/reels/{{ $json.job_id }}",
+        "url": "=https://vision-agent.api.reka.ai/v1/clips/{{ $json.job_id }}",
         "authentication": "predefinedCredentialType",
         "nodeCredentialType": "httpBearerAuth",
         "options": {}

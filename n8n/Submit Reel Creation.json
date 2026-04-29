@@ -4,7 +4,7 @@
     {
       "parameters": {
         "method": "POST",
-        "url": "https://vision-agent.api.reka.ai/v1/creator/reels",
+        "url": "https://vision-agent.api.reka.ai/v1/clips",
         "authentication": "predefinedCredentialType",
         "nodeCredentialType": "httpBearerAuth",
         "sendBody": true,
